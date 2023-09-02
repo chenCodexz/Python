@@ -23,7 +23,7 @@ my_pets = ['alfred', 'tabitha', 'william', 'arla']
 # from functools import reduce
 
 # numbers = [3, 4, 6, 9, 34, 12]
-
+filter()
 # def custom_sum(first, second):
 #     print(first,second)
 #     # print(second)
